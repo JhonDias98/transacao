@@ -1,0 +1,4 @@
+springdoc:
+    swagger-ui:
+      path: /swagger-ui.html # path para ver a documentação, exemplo: http://localhost:8080/webjars/swagger-ui/index.html
+    packagesToScan: br.com.transactionbff.api # pacotes que serão escaneados
